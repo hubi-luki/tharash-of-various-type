@@ -1,4 +1,4 @@
-rom PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QDialog, QLineEdit, QLabel
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QDialog, QLineEdit, QLabel
 from PyQt5 import QtCore
 
 
